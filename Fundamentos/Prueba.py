@@ -12,6 +12,7 @@ Este es un comentario largo
 print('Formulario')
 print('ingresa tu nombre:')
 nombre = input()
+
 print('El nombre ingresado es: ',nombre)
 
 
